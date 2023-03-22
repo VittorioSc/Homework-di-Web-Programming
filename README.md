@@ -6,6 +6,8 @@ Guitar World
 # Descrizione
 Guitar World è un progetto che prevede la creazione di un sito internet avente come scopo la messa a disposizione di informazioni sul mondo delle chitarre, dalle più famose ai modelli pià di nicchia. Inoltre si propone di diventare un portale dedicato alla vendita di questi strumenti come intermediario tra i clienti e le case produttrici.
 # Changelog
+22-03-23: è stata effettuata l'ottimizzazione della pagina sui dispositivi mobili (tablet/smartphone).
+
 18-03-23: è stata realizzata la homepage del sito, definendo sia il codice HTML sia lo stile della pagina mediante CSS, ancora manchevole la parte di JS.
 # Readability
 *** in fase di aggiornamento ***
