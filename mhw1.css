@@ -227,7 +227,7 @@ footer{
     .blocco{
         font-size: 0.4em;
     }
-    .opinione{
+    .opinione, .voto{
         font-size: 1em;
     }
     .genere{
